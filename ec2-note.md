@@ -1,8 +1,9 @@
 
 # My AWS EC3 Learning Journey
 
-## Screenshot:
+## Screenshots:
 ![My EC2 Instance Running](ec2-running.png)
+![EC2 Screenshot](ec2-instance-running2.png)
 
 ## What I Did Today:
 - Launched my first EC2 instance (t2.micro, Amazon Linux).
