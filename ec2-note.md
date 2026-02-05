@@ -9,7 +9,7 @@
 - Learned about Security Groups (HTTP, SSH).
 
 ## Commands I Ran:
-mkdir test
-cd test
-echo "I did this myself!" > success.txt
-cat success.txt
+- mkdir test
+- cd test
+- echo "I did this myself!" > success.txt
+- cat success.txt
