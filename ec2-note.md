@@ -1,4 +1,8 @@
-# My AWS EC2 Learning Journey
+
+# My AWS EC3 Learning Journey
+
+## Screenshot:
+![My EC2 Instance Running](ec2-running.png)
 
 ## What I Did Today:
 - Launched my first EC2 instance (t2.micro, Amazon Linux).
@@ -13,3 +17,5 @@
 - cd test
 - echo "I did this myself!" > success.txt
 - cat success.txt
+
+
