@@ -2,8 +2,8 @@
 # My AWS EC2 Learning Journey
 
 ## Screenshots:
-![My EC2 Instance Running](images/ec2-running.png)
-![EC2 Screenshot](images/ec2-instance-running2.png)
+![My EC2 Instance Running](images/ec2/ec2-running.png)
+![EC2 Screenshot](images/ec2/ec2-instance-running2.png)
 
 # AWS EC2 Hands-On Lab
 
